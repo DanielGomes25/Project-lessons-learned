@@ -6,25 +6,30 @@ body {
     text-align: center;
 }
 #minha_foto {
+   position: relative;
     width: 200px;
     border-radius: 100%;
-    m
-
+    
 }
 #licoes_aprendidas {
-    text-align: left;
+    background-color: brown;
+    
     
 }
-#licoes_a_aprender {
-    margin-right: 30px;
-    text-align: center;
-    
+#licoes_a_aprender  {
+background-color: #0000ff;
+margin-left: 200px;
+top: 300px
+
 }
-#list_order {
-    display: inline;
+.list {
+  display: inline-block;
+    
+    
+    
 }
 
-p {
+p {font-family: ;
 
 }
 h3 {
