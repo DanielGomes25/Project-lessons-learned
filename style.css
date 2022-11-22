@@ -1,9 +1,32 @@
 body {
     background-color: rgb(253, 251, 251)
 }
+#titulo {
+    background-color: green;
+    text-align: center;
+}
 #minha_foto {
     width: 200px;
+    border-radius: 100%;
+    m
+
+}
+#licoes_aprendidas {
+    text-align: left;
+    
 }
 #licoes_a_aprender {
+    margin-right: 30px;
+    text-align: center;
     
+}
+#list_order {
+    display: inline;
+}
+
+p {
+
+}
+h3 {
+
 }
