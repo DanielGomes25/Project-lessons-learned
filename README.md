@@ -1,6 +1,6 @@
 # Project Lessons Learned <h1>
 
-<img src='first.project.gif'><img>
+<img src='project.lessons.apng'><img>
 
 ### O primeiro a gente nunca esquece apesar de ser um projeto simples quando eu estava começando foi muito desafiador e não poderia ficar de fora do git, é sempre bom ver a evolução dos projetos.
 
